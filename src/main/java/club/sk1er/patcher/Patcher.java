@@ -32,7 +32,6 @@ import club.sk1er.patcher.util.world.SavesWatcher;
 import club.sk1er.patcher.util.world.render.culling.EntityCulling;
 import club.sk1er.patcher.util.world.render.entity.EntityRendering;
 import club.sk1er.patcher.util.world.sound.SoundHandler;
-import club.sk1er.patcher.util.world.sound.audioswitcher.AudioSwitcher;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import gg.essential.api.EssentialAPI;
